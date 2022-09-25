@@ -2,6 +2,9 @@ public class Main {
 
 
     public static void main(String[] args) {
+        /**
+         * Добавили коммент для проверки работы Git
+         */
         Printer printer = new Printer();
         printer.append("some text 133", "Справка");
         printer.append("some text 210", 544);
